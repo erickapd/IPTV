@@ -4,7 +4,7 @@
 
 #HBO
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/HBO_Family.svg" group-title="HBO Network",HBO Family
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="HBO Network",HBO Family
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/HBO_Mundi.svg" group-title="HBO Network",HBO Mundi
