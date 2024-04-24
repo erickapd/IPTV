@@ -13,7 +13,7 @@ http://170.254.18.106/HBO_MUNDI/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="HBO Network",HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://w1.pngwing.com/pngs/518/44/png-transparent-family-logo-hbo-signature-hbo-plus-hbo-family-megapix-text-line-area.png" group-title="HBO Network",HBO Signature
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO Network",HBO Signature
 http://170.254.18.106/HBO_SIG/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg" group-title="HBO Network",HBO XTREME
