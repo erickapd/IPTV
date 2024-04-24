@@ -16,7 +16,7 @@ http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO Network",HBO Signature
 http://170.254.18.106/HBO_SIG/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg" group-title="HBO Network",HBO XTREME
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_01/small.1489720622_HBOXtreme.png.509b7ff640e130a719160d36082380b0.png" group-title="HBO Network",HBO XTREME
 http://170.254.18.106/HBO_XTREME/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOAsiaHD.sg" tvg-logo="https://i.imgur.com/2pD6eN6.png" group-title="HBO Network",HBO 1+
