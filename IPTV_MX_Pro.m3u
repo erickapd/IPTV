@@ -32,9 +32,6 @@ http://170.254.18.106/HBO2/index.m3u8
 #EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
 http://170.254.18.106/AXN/index.m3u8
 
-#EXTINF:-1 tvg-id="AXN.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN HD (Chinese Subtitles)
-https://z88.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
-
 #STARCHANNEL
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="Movies",STAR
@@ -74,7 +71,7 @@ https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/62458
 #GOLDEN
 
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Movies",Golden 
-http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Movies",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
@@ -84,9 +81,6 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Movies",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/golden-multiplex-150x150-863050323.jpg" group-title="Movies",Golden Multiplex
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 
 #PARAMOUNT
 
@@ -127,19 +121,6 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="Movies",De Pelicula Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
-#FILMEX
-
-#EXTINF:-1 tvg-id="Filmex.mx" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="Movies",Filmex
-https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="Movies",Filmex Clasico
-https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
-
-#MOVIEMEX
-
-#EXTINF:-1 tvg-id="Moovimex.mx" tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="Movies",Moovimex
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
-
 #MYTIME
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="Movies",MyTime Movie Network
@@ -147,22 +128,10 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #TELEMUNDO
 
-#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="Telemundo Network",Telemundo Internacional
-http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Telemundo Network",Telemundo US
-http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TelemundoWest.us" tvg-shift="10800" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Telemundo Network",Telemundo West
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
-
 #EXTINF:-1 tvg-id="TelemundoCorpusChristi.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="Telemundo Network",Telemundo Corpus Christi
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Telemundo Network",Telemundo US 2
-http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TelemundoWest.us" tvg-shift="10800" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Telemundo Network",Telemundo West 2
+#EXTINF:-1 tvg-id="TelemundoWest.us" tvg-shift="10800" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Telemundo Network",Telemundo US
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
 
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo Network",Telemundo PR
@@ -182,11 +151,8 @@ https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 
 #LIFETIME
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime
 http://170.254.18.106/LIFETIME/index.m3u8
-
-#EXTINF:-1 tvg-id="Lifetime.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime
-http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
 
 #A+
 
@@ -240,7 +206,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/mani
 #EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
-#EXTINF:-1 tvg-id="DisneyJunior.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",Disney Junior (544p)
+#EXTINF:-1 tvg-id="DisneyJunior.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",Disney Junior Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 
 #EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",Disney Junior 2
@@ -266,11 +232,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
 #TUDN
 
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Sports",TUDN+
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Sports",TUDN
-http://190.61.102.67:2000/play/a08j/index.m3u8
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 #TNT
 
@@ -279,7 +242,7 @@ http://170.254.18.106/TNT/index.m3u8
 
 #NFL
 
-#EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://logodix.com/logo/676352.png" group-title="Sports",NFL Channel
+#EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://logodix.com/logo/676352.png" group-title="Sports",NFL Network
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
 
 #CLARO
@@ -356,11 +319,8 @@ http://stream02.vnet.am/NatGeoWild/mono.m3u8
 
 #HISTORY
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",HISTORY
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History
 http://170.254.18.106/HISTORY/index.m3u8
-
-#EXTINF:-1 tvg-id="History.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History
-http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
 
 #EXTINF:-1 tvg-id="History2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
@@ -413,9 +373,6 @@ https://stream.oursnetworktv.com/latin/encoder74/playlist.m3u8
 
 #TLNOVELAS
 
-#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novelas",Tlnovelas+
-https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novelas",Tlnovelas
 https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
 
@@ -439,10 +396,10 @@ http://stream.flynetwifi.com:1935/live/mobile-118/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="TV Nacional",Las Estrellas
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LasEstrellasPlus1.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="TV Nacional",Las Estrellas +1
+#EXTINF:-1 tvg-id="LasEstrellasPlus1.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="TV Nacional",Las Estrellas -1
 https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LasEstrellasPlus2.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="TV Nacional",Las Estrellas +2
+#EXTINF:-1 tvg-id="LasEstrellasPlus2.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="TV Nacional",Las Estrellas -2
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="TV Nacional",Las Estrellas Latin America
@@ -484,9 +441,6 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="TV Nacional",Imagen TV
 https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="TV Nacional",Imagen TV
-https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
-
 #EXTINF:-1 tvg-id="MetropoliTelevision.mx" tvg-logo="https://i.imgur.com/ajMAneN.jpg" group-title="TV Nacional",Metropoli Television
 https://stream.oursnetworktv.com/latin/Metropolitelevision/playlist.m3u8
 
@@ -500,6 +454,12 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 
 #TVMX
+
+#EXTINF:-1 tvg-id="ElSonorense.mx" tvg-logo="https://i.imgur.com/aKvPd4g.jpg" group-title="TV MX",El Sonorense
+https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PresumiendoMexico.mx" tvg-logo="https://i.imgur.com/bFG4Rqz.png" group-title="TV MX",Presumiendo Mexico
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="12VisionEncarnacion.mx" tvg-logo="https://i.imgur.com/yvQJQNF.jpg" group-title="TV MX",12 Vision Encarnacion
 https://stream.oursnetworktv.com/latin/encoder87b/playlist.m3u8
@@ -968,14 +928,6 @@ https://616eee1852d6c.streamlock.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioyTelevisionCrisoldelaAlegria.mx" tvg-logo="https://i.imgur.com/EW2z5Ko.jpg" group-title="Religious",Radio y Television Crisol de la Alegria
 https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8
-
-#CULTURE
-
-#EXTINF:-1 tvg-id="ElSonorense.mx" tvg-logo="https://i.imgur.com/aKvPd4g.jpg" group-title="Culture",El Sonorense
-https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PresumiendoMexico.mx" tvg-logo="https://i.imgur.com/bFG4Rqz.png" group-title="Culture",Presumiendo Mexico
-https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 
 #EDUCATION
 
