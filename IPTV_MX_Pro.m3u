@@ -110,13 +110,13 @@ https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 
 #PARAMOUNT
 
-#EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Paramount_Pictures_Corporation_logo.svg" group-title="Movies",Paramount Movie Channel
+#EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-logo="https://seeklogo.com/images/P/paramount-logo-D0604AF7D3-seeklogo.com.png" group-title="Movies",Paramount Movie Channel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" group-title="Movies",Paramount Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/paramount-network8623.jpg" group-title="Movies",Paramount Network
 http://170.254.18.106/PARAMOUNT/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Paramount_Network_2024.svg" group-title="Movies",Paramount Network 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/paramount-network8623.jpg" group-title="Movies",Paramount Network 2
 http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
 
 #STUDIOUNIVERSAL
@@ -162,7 +162,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 
 #MYTIME
 
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",MyTime Movie Network
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="Movies",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #TELEMUNDO
