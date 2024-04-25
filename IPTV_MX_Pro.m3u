@@ -299,7 +299,7 @@ http://170.254.18.106/TNT/index.m3u8
 
 #NFL
 
-#EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/de/c/c3/NFL-Network-Logo.svg" group-title="Sports",NFL Channel
+#EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://logodix.com/logo/676352.png" group-title="Sports",NFL Channel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
 
 #CLARO
@@ -322,7 +322,7 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="Music",MTV
 http://170.254.18.106/MTV/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/VH1_2003_logo.svg" group-title="Music",VH1
+#EXTINF:-1 tvg-id="" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/vh1-logo.png" group-title="Music",VH1
 http://170.254.18.106/VH1/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleHit.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Telehit_logo_2014.png" group-title="Music",TeleHit
@@ -446,7 +446,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc42
 
 #SONYNOVELAS
 
-#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg" group-title="Novelas",Sony Canal Novelas
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Novelas",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
 #AZCORAZON
