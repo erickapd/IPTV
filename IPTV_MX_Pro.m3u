@@ -67,7 +67,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #FX
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Movies",FX
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/fx-1-logo-black-and-white.png" group-title="Movies",FX
 http://170.254.18.106/FX/index.m3u8
 
 #SPACE
@@ -93,20 +93,20 @@ https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/62458
 
 #GOLDEN
 
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Movies",Golden Edge
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Movies",Golden Multiplex
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Movies",Golden 
 http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Movies",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Movies",Golden Edge
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Movies",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/golden-multiplex-150x150-863050323.jpg" group-title="Movies",Golden Multiplex
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 
 #PARAMOUNT
 
