@@ -25,24 +25,24 @@ https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="HBO Network",HBO 2+
 http://170.254.18.106/HBO2/index.m3u8
 
-##EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO Network",HBO LATAM
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO Network",HBO LATAM
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 
-##EXTINF:-1 tvg-id="HBO1.ca" tvg-logo="https://i.imgur.com/2pD6eN6.png" group-title="HBO Network",HBO
+#EXTINF:-1 tvg-id="HBO1.ca" tvg-logo="https://i.imgur.com/2pD6eN6.png" group-title="HBO Network",HBO
 
-##EXTVLCOPT:http-referrer=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us
 https://live.tv247us.com/tv247/hbo.m3u8
 
-##EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO Network",HBO HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO Network",HBO HD
 https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 
-##EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="HBO Network",HBO 2
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="HBO Network",HBO 2
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 
-##EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="HBO Network",HBO 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="HBO Network",HBO 2 HD
 https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HBOCOMEDYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 
-##EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/HBO_3_logo.png" group-title="HBO Network",HBO 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/HBO_3_logo.png" group-title="HBO Network",HBO 3 HD
 https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HBO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 
 #MOVIES
@@ -67,7 +67,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #FX
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/fx-1-logo-black-and-white.png" group-title="Movies",FX
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/F/fx-logo-D0E42903C8-seeklogo.com.png" group-title="Movies",FX
 http://170.254.18.106/FX/index.m3u8
 
 #SPACE
